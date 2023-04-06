@@ -1,0 +1,10 @@
+{
+    "name": "sample-cloud-storage",
+    "version": "0.0.1",
+    "dependencies": {
+      "@google-cloud/storage": "*",
+      "child_process": "*",
+      "fluent-ffmpeg": "*",
+      "@ffmpeg-installer/ffmpeg": "*"
+    }
+}  
